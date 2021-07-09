@@ -1,5 +1,6 @@
 # Dungeons-A.I
-Welcome to Dongeons-A.I, this project is about a person who is greeted with a question and can type in his answer, then a dc will be calculated and this will effect if you will either live or die. High Dc means a higher number must be obtained.
+Welcome to Dongeons-A.I, this project is about a person who is greeted with a question and can type in his answer, then a dc will be calculated and this will effect if you will either live or die. High Dc means a higher number of skill must be obtained in order to live.
+
 First of all this game is multiplay to enhance the game experience, and to allow you the play with your friends. The first two images show entering username and entering the game id, either create or join
 
 ![image](https://user-images.githubusercontent.com/70839471/125083132-e9c04780-e0bf-11eb-87ec-80e35f4fbea1.png)
